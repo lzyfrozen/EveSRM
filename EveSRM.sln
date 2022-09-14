@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveSRM", "EveSRM\EveSRM.csproj", "{7A55CF55-CADD-4DD2-9CD8-62A5F05F733C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A55CF55-CADD-4DD2-9CD8-62A5F05F733C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A55CF55-CADD-4DD2-9CD8-62A5F05F733C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A55CF55-CADD-4DD2-9CD8-62A5F05F733C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A55CF55-CADD-4DD2-9CD8-62A5F05F733C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8487B9-E9EF-411D-B3F5-E2500BCEFFE3}
+	EndGlobalSection
+EndGlobal
